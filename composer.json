@@ -1,0 +1,21 @@
+{
+    "name": "syvsoft/textareawithcounter",
+    "description": "Text area with symbol counter",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","textarea","symbol counter"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "syv",
+            "email": "esenskiy@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "syvsoft\\widgets\\": ""
+        }
+    }
+}
